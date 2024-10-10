@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "canva-mix/parte-prototipado/costes.md",
+                "file": "canva-mix/parte-empresarial/canales-difusion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canva-mix/parte-prototipado/costes.md",
+                "file": "canva-mix/parte-empresarial/canales-difusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canva-mix/parte-prototipado/costes.md",
+                "file": "canva-mix/parte-empresarial/canales-difusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canva-mix/parte-prototipado/costes.md"
+                "file": "canva-mix/parte-empresarial/canales-difusion.md"
               }
             }
           },
@@ -196,15 +196,15 @@
   "active": "89a9163aaf499160",
   "lastOpenFiles": [
     "canva-mix/recursos-graficos/recursos-canva-mix/modelo-canva-prototipado.pdf",
+    "canva-mix/parte-empresarial/recursos-clave.md",
+    "canva-mix/parte-empresarial/actividades-clave.md",
+    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
+    "canva-mix/parte-prototipado/costes.md",
     "canva-mix/parte-prototipado/problemas.md",
     "canva-mix/parte-prototipado/soluciones.md",
     "canva-mix/parte-prototipado/usuarios.md",
-    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
     "canva-mix/recursos-graficos/recursos-canva-mix/CanvasMIXPDF.pdf",
     "canva-mix/parte-empresarial/canales-difusion.md",
-    "canva-mix/parte-empresarial/recursos-clave.md",
-    "canva-mix/parte-empresarial/actividades-clave.md",
-    "canva-mix/parte-prototipado/costes.md",
     "canva-mix/informacion-general.md",
     "canva-mix/parte-prototipado/clientes.md",
     "canva-mix/parte-empresarial",
@@ -227,7 +227,6 @@
     "canva-mix/recursos-graficos/recursos-mapa-empatia",
     "canva-mix/recursos-graficos/recursos-canva-mix",
     "documentacion-proyecto",
-    "video-presentacion",
     "Welcome.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
