@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ca744fe098b3cb3",
+        "id": "2985620c749a58e3",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2798a24fbddfc4",
+            "id": "a27b091b32dad923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "canva-mix/parte-empresarial/ingresos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canva-mix/parte-empresarial/ingresos.md",
+                "file": "mapa-empatia/informacion-general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canva-mix/parte-empresarial/ingresos.md",
+                "file": "mapa-empatia/informacion-general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canva-mix/parte-empresarial/ingresos.md"
+                "file": "mapa-empatia/informacion-general.md"
               }
             }
           },
@@ -193,48 +189,51 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b2798a24fbddfc4",
+  "active": "89a9163aaf499160",
   "lastOpenFiles": [
-    "canva-mix/parte-empresarial/recursos-clave.md",
+    "documento-explicativo/documentos-explicativo.pdf",
+    "documento-explicativo/documentos-explicativo.docx",
+    "documento-explicativo",
+    "Nueva carpeta",
+    "canva-mix/documentos-explicativo.pdf",
+    "canva-mix/documentos-explicativo.docx",
+    "canva-mix/recursos-varios/modelo-canva.pdf",
+    "canva-mix/recursos-varios/canva-mix.jpg",
+    "mapa-empatia/recursos-varios/mapa-empatia.jpg",
+    "mapa-empatia/recursos-varios/MAPAEMPATI_A.docx",
+    "propuesta-valor/recursos-varios/propuesta-valor.jpeg",
+    "propuesta-valor/recursos-varios/PROPUESTAVALOR.docx",
+    "propuesta-valor/recursos-varios/Sin nombre",
+    "propuesta-valor/recursos-varios/Sin título.md",
+    "mapa-empatia/informacion-general.md",
+    "propuesta-valor/recursos-varios",
+    "canva-mix/informacion-general.md",
+    "documentacion-proyecto/informacion-general.md",
+    "propuesta-valor/informacion-general.md",
     "canva-mix/parte-empresarial/ingresos.md",
+    "canva-mix/parte-empresarial/recursos-clave.md",
     "canva-mix/parte-empresarial/canales-difusion.md",
     "canva-mix/parte-empresarial/actividades-clave.md",
     "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
-    "canva-mix/recursos-graficos/recursos-canva-mix/modelo-canva-prototipado.pdf",
     "canva-mix/parte-prototipado/soluciones.md",
     "canva-mix/parte-prototipado/problemas.md",
     "canva-mix/parte-prototipado/usuarios.md",
     "canva-mix/parte-prototipado/propuesta-de-valor.md",
     "canva-mix/parte-prototipado/costes.md",
     "canva-mix/parte-prototipado/clientes.md",
-    "canva-mix/parte-prototipado",
-    "canva-mix/parte-empresarial",
     "canva-mix/Problemas.md",
     "canva-mix/Soluciones.md",
     "canva-mix/Clientes.md",
     "canva-mix/modelo-canva-mix.md",
-    "canva-mix/informacion-general.md",
     "canva-mix/propuesta-de-valor.md",
     "canva-mix/Usuarios.md",
-    "documentacion-proyecto/informacion-general.md",
     "video-presentacion/informacion-general.md",
     "informacion-proyecto.md",
-    "canva-mix/recursos-graficos/recursos-mapa-empatia/MAPAEMPATI_A.docx",
-    "canva-mix/recursos-graficos/recursos-canva-mix/CanvasMIXPDF.pdf",
     "canva-mix/recursos-graficos/recursos-mapa-empatia/mapa-empatia.jpg",
-    "canva-mix/recursos-graficos/recursos-mapa-empatia",
-    "canva-mix/recursos-graficos/recursos-canva-mix",
-    "canva-mix/recursos-graficos",
-    "canva-mix/recursos-canva-mix/CanvasMIXPDF.pdf",
     "canva-mix/recursos-canva-mix/canva-mix.jpg",
     "taller-generacion-ideas.md",
     "README.md",
     "canva-mix/recursos-mapa-empatia/mapa-empatia.jpg",
-    "canva-mix/recursos-mapa-empatia/MAPAEMPATI_A.docx",
-    "Welcome.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-tablero.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
