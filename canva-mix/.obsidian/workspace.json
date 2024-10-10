@@ -11,8 +11,12 @@
             "id": "177740445df1255e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "parte-empresarial/ingresos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "parte-empresarial/ingresos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "parte-empresarial/ingresos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "parte-empresarial/ingresos.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "177740445df1255e",
   "lastOpenFiles": [
+    "parte-empresarial/ingresos.md",
     "parte-prototipado/soluciones.md",
     "parte-prototipado/problemas.md",
     "informacion-general.md",
