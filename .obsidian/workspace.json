@@ -11,9 +11,11 @@
             "id": "5b2798a24fbddfc4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg"
+                "file": "canva-mix/parte-empresarial/recursos-clave.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
+                "file": "canva-mix/parte-empresarial/recursos-clave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
+                "file": "canva-mix/parte-empresarial/recursos-clave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg"
+                "file": "canva-mix/parte-empresarial/recursos-clave.md"
               }
             }
           },
@@ -191,20 +193,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "89a9163aaf499160",
+  "active": "5b2798a24fbddfc4",
   "lastOpenFiles": [
-    "canva-mix/recursos-graficos/recursos-canva-mix/modelo-canva-prototipado.pdf",
     "canva-mix/parte-empresarial/canales-difusion.md",
+    "canva-mix/parte-empresarial/recursos-clave.md",
     "canva-mix/parte-empresarial/actividades-clave.md",
+    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
+    "canva-mix/recursos-graficos/recursos-canva-mix/modelo-canva-prototipado.pdf",
     "canva-mix/parte-prototipado/soluciones.md",
     "canva-mix/parte-prototipado/problemas.md",
-    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
     "canva-mix/parte-prototipado/usuarios.md",
     "canva-mix/parte-prototipado/propuesta-de-valor.md",
     "canva-mix/parte-prototipado/costes.md",
     "canva-mix/parte-prototipado/clientes.md",
     "canva-mix/parte-prototipado",
-    "canva-mix/parte-empresarial/recursos-clave.md",
     "canva-mix/parte-empresarial",
     "canva-mix/Problemas.md",
     "canva-mix/Soluciones.md",
@@ -228,7 +230,6 @@
     "README.md",
     "canva-mix/recursos-mapa-empatia/mapa-empatia.jpg",
     "canva-mix/recursos-mapa-empatia/MAPAEMPATI_A.docx",
-    "canva-mix/recursos-mapa-empatia",
     "Welcome.md",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
