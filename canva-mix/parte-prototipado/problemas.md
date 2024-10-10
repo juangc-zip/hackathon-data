@@ -1,21 +1,13 @@
 ## Consideraciones éticas y de seguridad
 
-## Consideraciones éticas y de seguridad
+**Confidencialidad y privacidad**: Manejar información personal sensible sobre la salud mental de los usuarios 
 
-**Confidencialidad y privacidad:** Gestión de información personal sensible relacionada con la salud mental de los usuarios.
-
-**Responsabilidad profesional:** La aplicación nunca sustituya a la ayuda
-Es crucial establecer parámetros claros que delimiten el alcance del apoyo proporcionado por la aplicación y definir criterios específicos para la derivación a servicios de salud mental profesionales.
-
+**Responsabilidad profesional**: Determinar los límites entre el apoyo que puede brindar la aplicación y cuándo se debe recomendar buscar ayuda profesional.
 ## Desafíos técnicos y de diseño
-
-**Personalización:** La aplicación debe incorporar un sistema de adaptabilidad avanzado que permita ajustar la experiencia del usuario a una amplia gama de necesidades específicas asociadas con diversos trastornos y manifestaciones sintomáticas[
-
+**Personalización**: Cada usuario puede tener necesidades muy específicas, por lo que la aplicación debe ser altamente personalizable para adaptarse a distintos trastornos y síntomas
 ## Retos de contenido y funcionalidad
+**Precisión de la información**: Proporcionar contenido e intervenciones basadas en evidencia científica, evitando información errónea o potencialmente dañina. 
 
-**Precisión de la información:** Es fundamental implementar un riguroso proceso de curación de contenido para garantizar que todas las intervenciones y la información proporcionada estén fundamentadas en evidencia científica sólida. Se debe establecer un sistema de revisión continua para prevenir la diseminación de información errónea o potencialmente perjudicial.
-
-**Motivación y adherencia:** Desarrollar estrategias de engagement basadas en principios de psicología conductual para fomentar el uso consistente y a largo plazo de la aplicación por parte de los usuarios
-## Consideraciones sociales y culturales
-
-**Diversidad cultural:** Implementar un enfoque de localización integral que adapte no solo el idioma, sino también el contenido, las intervenciones y la interfaz de usuario a los diversos contextos socioculturales de la base de usuarios.Este enfoque más técnico y profesional aborda los desafíos clave en el desarrollo de aplicaciones para la salud mental, enfatizando la importancia de la ética, la seguridad de datos, la personalización basada en evidencia y la adaptabilidad cultural.
+**Motivación y adherencia**: Mantener a los usuarios comprometidos con el uso regular de la aplicación. 
+## Consideraciones sociales y culturales 
+**Diversidad cultural**: Adaptar el contenido y las intervenciones a diferentes contextos culturales y lingüísticos.

@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dc20a8b86c752ff2",
+        "id": "1279607b247b37ac",
         "type": "tabs",
         "children": [
           {
-            "id": "fef963c4ae1d5c58",
+            "id": "177740445df1255e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problemas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c1c64b636553797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Soluciones.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Problemas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,8 +138,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fef963c4ae1d5c58",
+  "active": "177740445df1255e",
   "lastOpenFiles": [
+    "parte-prototipado/soluciones.md",
+    "parte-prototipado/problemas.md",
+    "informacion-general.md",
     "Soluciones.md",
     "Problemas.md",
     "propuesta-de-valor.md"
