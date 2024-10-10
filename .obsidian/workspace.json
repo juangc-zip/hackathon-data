@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "717bb572c1f2be2d",
+    "id": "f8494212b5afc1c5",
     "type": "split",
     "children": [
       {
-        "id": "d35c97c98a215505",
+        "id": "2719db12d5adc07f",
         "type": "tabs",
         "children": [
           {
-            "id": "f9106d92038ec2a4",
+            "id": "72f02a4e035b5abd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "canva-mix/Usuarios.md",
-=======
-                "file": "sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-1/apuntes/apuntes-tema1.md",
->>>>>>> Stashed changes
+                "file": "canva-mix/informacion-general.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95f760cfaaf55e67",
+    "id": "eb6b6122588d94ca",
     "type": "split",
     "children": [
       {
-        "id": "bd2d50c5e4c7ac4d",
+        "id": "52b47aad76d840d7",
         "type": "tabs",
         "children": [
           {
-            "id": "a0fcd59936a5a1f7",
+            "id": "89a9163aaf499160",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "0ae0504d57d3edb7",
+            "id": "03e29a587970c4a4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "67daa9f1fb4544a7",
+            "id": "fb3bb2743680106d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,27 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 335.5
   },
   "right": {
-    "id": "e0e65ea08c2b6ebb",
+    "id": "d4ac97f35abcf001",
     "type": "split",
     "children": [
       {
-        "id": "dd022641368acd04",
+        "id": "10d6f53fb1fae433",
         "type": "tabs",
         "children": [
           {
-            "id": "1463dc61ab6599cb",
+            "id": "5e27d8f8b8def7fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "canva-mix/Usuarios.md",
-=======
-                "file": "sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-1/apuntes/apuntes-tema1.md",
->>>>>>> Stashed changes
+                "file": "canva-mix/informacion-general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,23 +97,19 @@
             }
           },
           {
-            "id": "580eddbf9406b1e5",
+            "id": "b493851880e18a50",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "canva-mix/Usuarios.md",
-=======
-                "file": "sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-1/apuntes/apuntes-tema1.md",
->>>>>>> Stashed changes
+                "file": "canva-mix/informacion-general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f319b4ee02c73856",
+            "id": "8a02106747774121",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +120,12 @@
             }
           },
           {
-            "id": "bf56c889d4a1d495",
+            "id": "28f5ee8bfe572346",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "canva-mix/Usuarios.md"
+                "file": "canva-mix/informacion-general.md"
               }
             }
           },
@@ -150,14 +137,9 @@
               "state": {
                 "calendar": "ID_c8382bc85a18",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 15,
-                    "month": 9,
-                    "year": 2024
-                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 6,
+                    "day": 9,
                     "month": 9,
                     "year": 2024
                   },
@@ -185,9 +167,6 @@
                 "calendar": "ID_c8382bc85a18",
                 "id": "ID_68a94a89fa29",
                 "parent": "ID_5b49e889092a"
-=======
-                "file": "sistemas-gestion-empresarial/Repositorio-sistemas-gestion-empresarial/tema-1/apuntes/apuntes-tema1.md"
->>>>>>> Stashed changes
               }
             }
           }
@@ -205,22 +184,30 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-<<<<<<< Updated upstream
       "command-palette:Abrir paleta de comandos": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "89a9163aaf499160",
+  "active": "72f02a4e035b5abd",
   "lastOpenFiles": [
+    "canva-mix/parte-empresarial/recursos-clave.md",
+    "canva-mix/parte-prototipado/clientes.md",
+    "canva-mix/parte-empresarial",
+    "canva-mix/parte-prototipado/soluciones.md",
+    "canva-mix/parte-prototipado",
+    "canva-mix/Sin título.md",
+    "canva-mix/parte-prototipado/usuarios.md",
+    "canva-mix/parte-prototipado/propuesta-de-valor.md",
+    "canva-mix/parte-prototipado/problemas.md",
+    "canva-mix/parte empresarial/canales-difusion.md",
+    "canva-mix/modelo-canva-mix.md",
+    "canva-mix/parte empresarial/actividades-clave.md",
+    "canva-mix/parte empresarial/recursos-clave.md",
+    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
     "canva-mix/recursos-graficos",
     "canva-mix/parte empresarial",
-    "canva-mix/Clientes.md",
-    "canva-mix/propuesta-de-valor.md",
-    "canva-mix/Usuarios.md",
     "canva-mix/informacion-general.md",
-    "canva-mix/modelo-canva-mix.md",
     "canva-mix/recursos-graficos/recursos-canva-mix/CanvasMIXPDF.pdf",
-    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
     "video-presentacion/informacion-general.md",
     "informacion-proyecto.md",
     "taller-generacion-ideas.md",
@@ -233,7 +220,6 @@
     "documentacion-proyecto",
     "video-presentacion",
     "Welcome.md",
-    "canva-mix",
     "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/presentacion-erp/informacion-a3erp.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-tablero.md",
@@ -241,58 +227,9 @@
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/clase-helperClass.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros/ejercicio-mario-bros.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/movimiento-tableros.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/propuesta-valor.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/modelo-negocio-canva.md",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/informacion-general.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-1.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicios-erp.md",
-    "🟤┃sistemas-gestion-empresarial/➊⟧ trimestre/unidad-1/ejercicios-md/ejercicio-helados.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/ejercicio-tableros",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
-=======
-      "command-palette:Abrir paleta de comandos": false
-    }
-  },
-  "active": "f9106d92038ec2a4",
-  "lastOpenFiles": [
-    "sistemas-gestion-empresarial/tema-1/ejercicios/Apache-Ofbiz-and-Dolibar.md",
-    "desarrollo-de-interfaces/tema-1/ejercicios-visualStudio/MarioBros.rar",
-    "sistemas-gestion-empresarial/tema-2/apuntes/apuntes-tema2-ingles.pdf",
-    "sistemas-gestion-empresarial/tema-2/ejercicios/informacion-licencias.md",
-    "sistemas-gestion-empresarial/tema-2/apuntes/apuntes-tema2-ingles(V2).pdf",
-    "sistemas-gestion-empresarial/tema-2/apuntes/mso4C67.tmp",
-    "sistemas-gestion-empresarial/tema-2/apuntes/mso3600.tmp",
-    "sistemas-gestion-empresarial/tema-2/apuntes/~$apuntes-tema2-ingles - copia.pptx",
-    "sistemas-gestion-empresarial/tema-2/apuntes/apuntes-tema2-ingles - copia.pptx",
-    "sistemas-gestion-empresarial/tema-2/apuntes/~$apuntes-tema2-ingles.pptx",
-    "sistemas-gestion-empresarial/tema-2/apuntes/ppt2EA3.tmp",
-    "sistemas-gestion-empresarial/tema-2/apuntes/apuntes-tema2-ingles.pptx",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/apuntes/resumen-tema-1.md",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-0/apuntes/TEMA 0. INTRODUCCIÓN A KOTLIN.md",
-    "sistemas-gestion-empresarial/tema-1/ejercicios/ACT-2.md",
-    "sistemas-gestion-empresarial/tema-1/ejercicios/Buscar-informacion.md",
-    "sistemas-gestion-empresarial/tema-1/ejercicios/ACT-1.md",
-    "sistemas-gestion-empresarial/tema-1/apuntes/apuntes-tema1.md",
-    "sistemas-gestion-empresarial/ejercicios/presentacion-bilingüe.md",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
-    "programacion-multimedia-dispositivos-moviles/programacion-multimadia-dispositivos-moviles/tema-1/ejercicios/ConstrainLayout/app/src/main/res/mipmap-hdpi/ic_launcher.webp",
-    "sistemas-gestion-empresarial/ejercicios/Buscar-informacion.md",
-    "sistemas-gestion-empresarial/ejercicios/ACT-2.md",
-    "sistemas-gestion-empresarial/ejercicios/ACT-1.md",
-    "sistemas-gestion-empresarial/apuntes/TEMA 1..md",
-    "programación-multimedia-dispositivos-moviles/tema-1/apuntes/TEMA 0. INTRODUCCIÓN A KOTLIN.md"
->>>>>>> Stashed changes
   ]
 }
