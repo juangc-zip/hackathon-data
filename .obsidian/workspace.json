@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "canva-mix/parte-empresarial/canales-difusion.md",
-                "mode": "source",
+                "file": "canva-mix/parte-prototipado/costes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "canva-mix/parte-empresarial/canales-difusion.md",
+                "file": "canva-mix/parte-prototipado/costes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "canva-mix/parte-empresarial/canales-difusion.md",
+                "file": "canva-mix/parte-prototipado/costes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "canva-mix/parte-empresarial/canales-difusion.md"
+                "file": "canva-mix/parte-prototipado/costes.md"
               }
             }
           },
@@ -193,29 +193,30 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "72f02a4e035b5abd",
+  "active": "89a9163aaf499160",
   "lastOpenFiles": [
+    "canva-mix/recursos-graficos/recursos-canva-mix/modelo-canva-prototipado.pdf",
+    "canva-mix/parte-prototipado/problemas.md",
+    "canva-mix/parte-prototipado/soluciones.md",
+    "canva-mix/parte-prototipado/usuarios.md",
+    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
+    "canva-mix/recursos-graficos/recursos-canva-mix/CanvasMIXPDF.pdf",
+    "canva-mix/parte-empresarial/canales-difusion.md",
     "canva-mix/parte-empresarial/recursos-clave.md",
     "canva-mix/parte-empresarial/actividades-clave.md",
-    "canva-mix/parte-empresarial/canales-difusion.md",
     "canva-mix/parte-prototipado/costes.md",
-    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
     "canva-mix/informacion-general.md",
     "canva-mix/parte-prototipado/clientes.md",
     "canva-mix/parte-empresarial",
-    "canva-mix/parte-prototipado/soluciones.md",
     "canva-mix/parte-prototipado",
     "canva-mix/Sin título.md",
-    "canva-mix/parte-prototipado/usuarios.md",
     "canva-mix/parte-prototipado/propuesta-de-valor.md",
-    "canva-mix/parte-prototipado/problemas.md",
     "canva-mix/parte empresarial/canales-difusion.md",
     "canva-mix/modelo-canva-mix.md",
     "canva-mix/parte empresarial/actividades-clave.md",
     "canva-mix/parte empresarial/recursos-clave.md",
     "canva-mix/recursos-graficos",
     "canva-mix/parte empresarial",
-    "canva-mix/recursos-graficos/recursos-canva-mix/CanvasMIXPDF.pdf",
     "video-presentacion/informacion-general.md",
     "informacion-proyecto.md",
     "taller-generacion-ideas.md",
@@ -232,7 +233,6 @@
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-jugador.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/objeto-tablero.md",
     "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/informacion-general.md",
-    "🟠┃desarrollo-interfaces/➊⟧ trimestre/unidad-1/proyecto-pinocho/clase-helperClass.md",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
