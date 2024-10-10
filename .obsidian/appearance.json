@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "accentColor": "#65a2c8"
+  "cssTheme": "Things",
+  "accentColor": "#65a2c8",
+  "textFontFamily": "Comfortaa",
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Comfortaa"
 }
