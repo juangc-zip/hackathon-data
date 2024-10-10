@@ -1,0 +1,1 @@
+Jóvenes de entre 16 y 35 años que perciben tener algún problema psicológico, como la depresión, y desean informarse y adquirir herramientas útiles para manejar su situación personal. Nos enfocamos específicamente en quienes sienten que algo no está bien consigo mismos, experimentan vergüenza por su situación y no se sienten capaces de buscar ayuda
