@@ -2,9 +2,10 @@
 
 ## Consideraciones éticas y de seguridad
 
-**Confidencialidad y privacidad:** La gestión de información sensible relacionada con la salud mental de los usuarios requiere la implementación de protocolos de seguridad robustos y el cumplimiento estricto de las normativas de protección de datos. Es imperativo salvaguardar la integridad y confidencialidad de los datos personales y clínicos.
+**Confidencialidad y privacidad:** Gestión de información personal sensible relacionada con la salud mental de los usuarios.
 
-**Responsabilidad profesional:** Es crucial establecer parámetros claros que delimiten el alcance del apoyo proporcionado por la aplicación y definir criterios específicos para la derivación a servicios de salud mental profesionales. La plataforma debe complementar, no sustituir, la atención médica especializada.
+**Responsabilidad profesional:** La aplicación nunca sustituya a la ayuda
+Es crucial establecer parámetros claros que delimiten el alcance del apoyo proporcionado por la aplicación y definir criterios específicos para la derivación a servicios de salud mental profesionales.
 
 ## Desafíos técnicos y de diseño
 
