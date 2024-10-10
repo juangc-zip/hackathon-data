@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1279607b247b37ac",
+        "id": "61a647b59b878a92",
         "type": "tabs",
         "children": [
           {
-            "id": "177740445df1255e",
+            "id": "cf4a72a965fcf09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parte-empresarial/ingresos.md",
+                "file": "parte-empresarial/ventajas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parte-empresarial/ingresos.md",
+                "file": "parte-empresarial/ventajas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parte-empresarial/ingresos.md",
+                "file": "parte-empresarial/ventajas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parte-empresarial/ingresos.md"
+                "file": "parte-empresarial/ventajas.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "177740445df1255e",
+  "active": "cf4a72a965fcf09e",
   "lastOpenFiles": [
     "parte-empresarial/ingresos.md",
+    "parte-empresarial/ventajas.md",
     "parte-prototipado/soluciones.md",
     "parte-prototipado/problemas.md",
     "informacion-general.md",
