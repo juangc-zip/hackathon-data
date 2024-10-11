@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2985620c749a58e3",
+        "id": "3e154411c3151084",
         "type": "tabs",
         "children": [
           {
-            "id": "a27b091b32dad923",
+            "id": "c9d3df4288fa7519",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "propuesta-valor/propuesta-valor.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "right": {
     "id": "d4ac97f35abcf001",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "propuesta-valor/propuesta-valor.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "propuesta-valor/propuesta-valor.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "propuesta-valor/propuesta-valor.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -182,18 +177,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a27b091b32dad923",
+  "active": "c9d3df4288fa7519",
   "lastOpenFiles": [
+    "video-presentacion/imagenes-generadas/prompts-imagenes.md",
+    "video-presentacion/metraje-video.md",
+    "video-presentacion/informacion-general.md",
+    "video-presentacion/imagenes-generadas",
+    "video-presentacion/Untitled.md",
+    "video-presentacion/Untitled.canvas",
     "Presentacion MOODMATE.pdf",
+    "informacion-proyecto.md",
+    "propuesta-valor/propuesta-valor.pdf",
     "documento-explicativo/documentos-explicativo.pdf",
     "documento-explicativo/documentos-explicativo.docx",
     "documento-explicativo",
@@ -203,10 +206,7 @@
     "canva-mix/recursos-varios/modelo-canva.pdf",
     "canva-mix/recursos-varios/canva-mix.jpg",
     "mapa-empatia/recursos-varios/mapa-empatia.jpg",
-    "mapa-empatia/recursos-varios/MAPAEMPATI_A.docx",
     "propuesta-valor/recursos-varios/propuesta-valor.jpeg",
-    "propuesta-valor/recursos-varios/PROPUESTAVALOR.docx",
-    "propuesta-valor/recursos-varios/Sin nombre",
     "propuesta-valor/recursos-varios/Sin título.md",
     "mapa-empatia/informacion-general.md",
     "canva-mix/informacion-general.md",
@@ -229,12 +229,8 @@
     "canva-mix/modelo-canva-mix.md",
     "canva-mix/propuesta-de-valor.md",
     "canva-mix/Usuarios.md",
-    "video-presentacion/informacion-general.md",
-    "informacion-proyecto.md",
     "canva-mix/recursos-graficos/recursos-mapa-empatia/mapa-empatia.jpg",
     "canva-mix/recursos-canva-mix/canva-mix.jpg",
-    "taller-generacion-ideas.md",
-    "README.md",
     "canva-mix/recursos-mapa-empatia/mapa-empatia.jpg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",

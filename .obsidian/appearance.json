@@ -3,5 +3,6 @@
   "accentColor": "#65a2c8",
   "textFontFamily": "Comfortaa",
   "monospaceFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "Comfortaa"
+  "interfaceFontFamily": "Comfortaa",
+  "theme": "obsidian"
 }

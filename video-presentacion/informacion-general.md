@@ -1,0 +1,8 @@
+
+- ¿Estás cansado del estrés que te consume todos los días?
+- La salud mental es algo que todos necesitamos cuidar. Pero, ¿quién te ayuda en tu día a día
+- Es hora de cambiar eso. Conoce MoodMate.
+- Reduce tu ansiedad, mejora tu ánimo y recupera el control de tu vida.
+- Únete a miles que ya están transformando su bienestar con MoodMate.
+- Disponible en móvil, web y wearables. MoodMate siempre está contigo.
+- Descarga MoodMate ahora y lleva tu bienestar mental al siguiente nivel.
