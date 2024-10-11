@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video-presentacion/metraje-video.md",
+                "file": "video-presentacion/informacion-general.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "video-presentacion/metraje-video.md",
+                "file": "video-presentacion/informacion-general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "video-presentacion/metraje-video.md",
+                "file": "video-presentacion/informacion-general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "video-presentacion/metraje-video.md"
+                "file": "video-presentacion/informacion-general.md"
               }
             }
           },
@@ -184,36 +184,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "c9d3df4288fa7519",
   "lastOpenFiles": [
-    "video-presentacion/informacion-general.md",
-    "PresentacionMOODMATE.pdf",
-    "Presentación salud mental profesional verde y amarillo.pdf",
-    "video-presentacion/voz de rafa guion.mp3",
-    "voz de rafa guion.mp3",
-    "documento-explicativo/~$cumentos-explicativo.docx",
+    "planMarketing.pdf",
+    "mso4A3F.tmp",
+    "~WRL0005.tmp",
+    "~WRD0004.tmp",
+    "~$anMarketing.docx",
+    "~WRD0000.tmp",
+    "planMarketing.docx",
+    "propuesta-valor/~$opuesta-valor.docx",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (8).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (9).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (7).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (6).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (5).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (4).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (3).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (1).png",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (2).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton/image (1).jpeg",
+    "video-presentacion/imagenes-generadas/fotos hackaton",
+    "documento-explicativo/documento-explicativo-final.pdf",
+    "documento-explicativo/documento-explicativo-final.docx",
+    "documento-explicativo/division-tareas.md",
     "video-presentacion/metraje-video.md",
+    "video-presentacion/informacion-general.md",
     "video-presentacion/imagenes-generadas/prompts-imagenes.md",
-    "video-presentacion/imagenes-generadas",
     "video-presentacion/Untitled.md",
     "video-presentacion/Untitled.canvas",
-    "Presentacion MOODMATE.pdf",
     "informacion-proyecto.md",
-    "propuesta-valor/propuesta-valor.pdf",
-    "documento-explicativo/documentos-explicativo.pdf",
-    "documento-explicativo/documentos-explicativo.docx",
-    "canva-mix/recursos-varios/canva-mix.jpg",
-    "mapa-empatia/recursos-varios/mapa-empatia.jpg",
-    "propuesta-valor/recursos-varios/propuesta-valor.jpeg",
     "propuesta-valor/recursos-varios/Sin título.md",
     "mapa-empatia/informacion-general.md",
     "canva-mix/informacion-general.md",
@@ -223,7 +232,6 @@
     "canva-mix/parte-empresarial/recursos-clave.md",
     "canva-mix/parte-empresarial/canales-difusion.md",
     "canva-mix/parte-empresarial/actividades-clave.md",
-    "canva-mix/recursos-graficos/recursos-canva-mix/canva-mix.jpg",
     "canva-mix/parte-prototipado/soluciones.md",
     "canva-mix/parte-prototipado/problemas.md",
     "canva-mix/parte-prototipado/usuarios.md",
@@ -234,12 +242,6 @@
     "canva-mix/Soluciones.md",
     "canva-mix/Clientes.md",
     "canva-mix/modelo-canva-mix.md",
-    "canva-mix/propuesta-de-valor.md",
-    "canva-mix/recursos-graficos/recursos-mapa-empatia/mapa-empatia.jpg",
-    "canva-mix/recursos-canva-mix/canva-mix.jpg",
-    "canva-mix/recursos-mapa-empatia/mapa-empatia.jpg",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/simple-logo.webp",
-    "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/media-recursos/images/mascota-san.jpeg",
     "🟡┃empresa-iniciativa-emprendedora/proyecto-empresa/ejemplo-mapa-empatia.canvas"
   ]
 }
