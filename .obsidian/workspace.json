@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video-presentacion/informacion-general.md",
+                "file": "video-presentacion/metraje-video.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "video-presentacion/informacion-general.md",
+                "file": "video-presentacion/metraje-video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "video-presentacion/informacion-general.md",
+                "file": "video-presentacion/metraje-video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "video-presentacion/informacion-general.md"
+                "file": "video-presentacion/metraje-video.md"
               }
             }
           },
@@ -184,24 +184,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "c9d3df4288fa7519",
   "lastOpenFiles": [
+    "video-presentacion/informacion-general.md",
     "PresentacionMOODMATE.pdf",
     "Presentación salud mental profesional verde y amarillo.pdf",
     "video-presentacion/voz de rafa guion.mp3",
     "voz de rafa guion.mp3",
     "documento-explicativo/~$cumentos-explicativo.docx",
     "video-presentacion/metraje-video.md",
-    "video-presentacion/informacion-general.md",
     "video-presentacion/imagenes-generadas/prompts-imagenes.md",
     "video-presentacion/imagenes-generadas",
     "video-presentacion/Untitled.md",
@@ -211,7 +211,6 @@
     "propuesta-valor/propuesta-valor.pdf",
     "documento-explicativo/documentos-explicativo.pdf",
     "documento-explicativo/documentos-explicativo.docx",
-    "documento-explicativo",
     "canva-mix/recursos-varios/canva-mix.jpg",
     "mapa-empatia/recursos-varios/mapa-empatia.jpg",
     "propuesta-valor/recursos-varios/propuesta-valor.jpeg",
