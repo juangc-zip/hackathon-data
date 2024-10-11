@@ -11,8 +11,10 @@
             "id": "a27b091b32dad923",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "propuesta-valor/propuesta-valor.pdf"
+              }
             }
           }
         ]
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mapa-empatia/informacion-general.md",
+                "file": "propuesta-valor/propuesta-valor.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mapa-empatia/informacion-general.md",
+                "file": "propuesta-valor/propuesta-valor.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mapa-empatia/informacion-general.md"
+                "file": "propuesta-valor/propuesta-valor.pdf"
               }
             }
           },
@@ -189,8 +191,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "89a9163aaf499160",
+  "active": "a27b091b32dad923",
   "lastOpenFiles": [
+    "Presentacion MOODMATE.pdf",
     "documento-explicativo/documentos-explicativo.pdf",
     "documento-explicativo/documentos-explicativo.docx",
     "documento-explicativo",
@@ -206,7 +209,6 @@
     "propuesta-valor/recursos-varios/Sin nombre",
     "propuesta-valor/recursos-varios/Sin título.md",
     "mapa-empatia/informacion-general.md",
-    "propuesta-valor/recursos-varios",
     "canva-mix/informacion-general.md",
     "documentacion-proyecto/informacion-general.md",
     "propuesta-valor/informacion-general.md",
